@@ -1,0 +1,35 @@
+body {
+   font: 18px/1.5 sans-serif;
+   background-color: #eee;
+
+   margin: 0;
+   padding: 0;
+
+}
+
+form {
+   margin: 1rem;
+   width: 520px;
+}
+
+h1 {
+   margin: 1rem;
+}
+
+button {
+   margin: 1rem;
+   background: #6af094;
+
+   border: none;
+   border-radius: 7px;
+   padding: 10px 24px;
+   cursor: pointer;
+}
+
+fieldset {
+   margin: 0 0 20px;
+   padding: 20px 15px;
+
+   border: 1px solid #ae63e4;
+}
+
